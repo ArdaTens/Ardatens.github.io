@@ -1,5 +1,6 @@
-ul li a {
-    background-color: black;
+html, body {
+    margin: 0;
+    height: 100%;
 }
 
 
@@ -11,3 +12,11 @@ ul li a {
 .card{
     margin: 50px;
 }
+
+.dark {
+    background-color: black;
+    min-height:100%;
+    color: orange;
+}
+
+
